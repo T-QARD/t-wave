@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "t-wave"
+version = "0.1.0"
+description = ""
+authors = ["t-qard <t-qard@users.noreply.github.com>"]
+license = ""
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter-book = "^0.11.3"
+ghp-import = "^2.0.1"
+
+[tool.poetry.dev-dependencies]
+ipykernel = "^6.4.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
