@@ -10,4 +10,5 @@ parts:
 
   - caption: 解説記事
     chapters:
-    - file: commentaries/nurse_scheduling_problem/nsp
+    - file: comments/nurse_scheduling_problem/nsp
+    - file: comments/CoQ/CoQ_bm
