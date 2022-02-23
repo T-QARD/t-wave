@@ -144,8 +144,5 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-# build files
-_build
-
-# poetry
-poetry.lock
+# html files
+*.html
